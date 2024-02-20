@@ -1,0 +1,8 @@
+'和家亲':
+  'appPackage': 'com.cmri.universalapp'
+  'appActivity': '.splash.activity.SplashActivity'
+  'sheetName': 'universalapp'
+'睿博士':
+  'appPackage': 'com.zwcode.p6slite'
+  'appActivity': '.activity.SplashActivity'
+  'sheetName': 'page_element'

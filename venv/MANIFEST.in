@@ -1,0 +1,3 @@
+include *.yaml *.xlsx *.py
+recursive-include ./ *.yaml *.py
+prune examples/sample?/build

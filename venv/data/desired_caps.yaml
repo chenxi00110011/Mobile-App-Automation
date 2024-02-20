@@ -1,0 +1,10 @@
+platformName: "Android"
+platformVersion : "11"
+deviceName: "xxx"
+appPackage: "com.cmri.universalapp"
+appActivity: ".splash.activity.SplashActivity"
+unicodeKeyboard: True
+resetKeyboard: True
+noReset: True
+newCommandTimeout: 6000
+automationName: "UiAutomator2"
