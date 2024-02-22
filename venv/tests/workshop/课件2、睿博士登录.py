@@ -8,6 +8,8 @@ Date:
 import time
 from appium import webdriver
 
+# 睿博士登录示例
+
 appium_android_config = {'platformName': 'Android',
                          'platformVersion': '11',
                          'deviceName': 'xxx',

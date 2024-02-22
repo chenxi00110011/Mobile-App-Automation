@@ -5,8 +5,9 @@ Author:
 Date:
 """
 import time
-
 from appium import webdriver
+
+# 如何启动app
 
 appium_android_config = {'platformName': 'Android',
                          'platformVersion': '11',
